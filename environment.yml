@@ -1,0 +1,31 @@
+name: 290A
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - mp-api
+  - scipy
+  - jupyterlab
+  - astropy
+  - bottleneck
+  - pymatgen
+  - python-dotenv
+  - pytorch
+  - pandas
+  - xarray
+  - dask
+  - git
+  - torchvision
+  - pip
+  - netcdf4
+  - python=3.10
+  - numpy
+  - numba
+  - lightkurve
+  - llvmlite
+  - matminer
+  - ipykernel
+  - scikit-learn
+  - gh
+  - seaborn
+prefix: /Users/jesse/miniforge3/envs/290A
