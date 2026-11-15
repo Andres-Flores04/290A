@@ -1,7 +1,3 @@
 .DS_Store
-# Ignore large ERA5 datasets
+#Large ERA5 datasets
 Project1/data:/
-
-#Ignore Jupyter checkpoint files
-.ipynb_checkpoints/
-
